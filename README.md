@@ -6,7 +6,8 @@
 </div>
 <br/>
 
-##About me 
+## About me 
+<br/>
 Self driven and motivated computer science student with a strong programming background and a passion for problem-solving. Seeking to apply my skills to contribute to a dynamic team and learn from experienced professionals. Constantly seeking opportunities to enhance my technical expertise and stay up-to-date with the latest advancements in technology.
 
 - 🙌 I'm currently open to: **Software Engineering | Data Scientist | Data Analytics | Consultancy roles**
