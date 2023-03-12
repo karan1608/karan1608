@@ -15,13 +15,13 @@ Self driven and motivated computer science student from Vellore Institute of Tec
 - - 👯 I’m looking to collaborate on: **Software Development | Machine Learning | Data Analytics Project**
 
 ## What I know :computer:
-- **Programming Languages (Data Structures & Algorithms)**
+- **Programming Languages**
 	<center>
 		<table>
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
+						<span><strong>Java</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
 					</td>
 					<td width="25%" align="center">
@@ -29,7 +29,7 @@ Self driven and motivated computer science student from Vellore Institute of Tec
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
+						<span><strong>Python</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
 					</td>
 				</tr>
