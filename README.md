@@ -4,9 +4,10 @@
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73129634/224562043-6e5dcb86-97d0-44f9-adc3-60f6169694f5.gif" alt="Karan Typer" />
+  <img src="https://user-images.githubusercontent.com/73129634/224562289-98000a83-2356-4daa-9482-a7c63c593ce6.gif" alt="Karan Typer" />
 </div>
 <br/>
+
 
 
 <!--
