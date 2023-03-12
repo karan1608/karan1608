@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <img src="[https://github.com/raghavk16/raghavk16/blob/master/screen.gif](https://user-images.githubusercontent.com/73129634/224562043-6e5dcb86-97d0-44f9-adc3-60f6169694f5.gif)" alt="Karan Typer" />
+  <img src="(https://user-images.githubusercontent.com/73129634/224562043-6e5dcb86-97d0-44f9-adc3-60f6169694f5.gif)" alt="Karan Typer" />
 </div>
 <br/>
 
