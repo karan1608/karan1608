@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Welcome To My GitHub Profile !
 
 <br/>
@@ -8,6 +6,10 @@
 </div>
 <br/>
 
+##About me 
+Self driven and motivated computer science student with a strong programming background and a passion for problem-solving. Seeking to apply my skills to contribute to a dynamic team and learn from experienced professionals. Constantly seeking opportunities to enhance my technical expertise and stay up-to-date with the latest advancements in technology.
+
+- 🙌 I'm currently open to: **Software Engineering | Data Scientist | Data Analytics | Consultancy roles**
 
 
 <!--
@@ -15,7 +17,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
