@@ -15,7 +15,7 @@ Self driven and motivated computer science student from Vellore Institute of Tec
 - - 👯 I’m looking to collaborate on: **Software Development | Machine Learning | Data Analytics Project**
 
 ## What I know :computer:
-**Programming Languages (Data Structures & Algorithms)**
+- **Programming Languages (Data Structures & Algorithms)**
 	<center>
 		<table>
 			<tbody>
