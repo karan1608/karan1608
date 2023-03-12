@@ -6,7 +6,6 @@
 </div>
 <br/>
 <h2><b>About me</b></h2>
-<br/>
 Self driven and motivated computer science student from Vellore Institute of Technology with a strong programming background and a passion for problem-solving. Seeking to apply my skills to contribute to a dynamic team and learn from experienced professionals. Constantly seeking opportunities to enhance my technical expertise and stay up-to-date with the latest advancements in technology.
 
 
