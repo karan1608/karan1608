@@ -8,7 +8,7 @@
 <h2><b>About me</b></h2>
 Self driven and motivated computer science student from Vellore Institute of Technology with a strong programming background and a passion for problem-solving. Seeking to apply my skills to contribute to a dynamic team and learn from experienced professionals. Constantly seeking opportunities to enhance my technical expertise and stay up-to-date with the latest advancements in technology.
 
-</br>
+<br></br>
 
 - 🙌 I'm currently open to: **Software Engineering | Data Scientist | Data Analytics | Consultancy roles**
 - 🔭 I'm currently working on: **Data Analytics | Data Science | Machine Learning**
